@@ -1,7 +1,9 @@
-Nama   : Ricky Setiawan
+Nama    : Ricky Setiawan
 
-NPM    : 2206083161
+NPM     : 2206083161
 
-Kelas  : PBP E
+Kelas   : PBP E
 
-Hobi   : Tidur
+Hobi    : Tidur
+
+Jurusan : Sistem Informasi
